@@ -8,5 +8,6 @@ setup(
     url='https://github.com/andirady/soapy',
     author='Andi Rady Kurniawan',
     license='MIT',
-    keywords='soap server mockup'
+    keywords='soap server mockup',
+    packages=['soapy']
 )
