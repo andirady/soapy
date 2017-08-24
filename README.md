@@ -18,3 +18,9 @@ def say_hello(req : ET.Element) -> ET.Element:
 
 soapy.run(port=5000)
 ```
+Installation
+============
+
+```
+pip install --user https://github.com/andirady/soapy.git
+```
