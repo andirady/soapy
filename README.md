@@ -22,5 +22,5 @@ Installation
 ============
 
 ```
-pip install --user https://github.com/andirady/soapy.git
+pip install --user git+https://github.com/andirady/soapy.git
 ```
